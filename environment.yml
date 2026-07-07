@@ -1,0 +1,8 @@
+name: database
+channels:
+  - defaults
+dependencies:
+  - python=3.14
+  - pip
+  - pip:
+    - -r backend/requirements.txt
