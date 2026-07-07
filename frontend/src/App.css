@@ -1,0 +1,30 @@
+.app {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: system-ui, sans-serif;
+}
+
+.status-card {
+  margin-top: 1.5rem;
+  padding: 1.25rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.status-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.status-card li {
+  margin: 0.5rem 0;
+}
+
+.detail {
+  margin-top: 1rem;
+  color: #666;
+  font-size: 0.9rem;
+}
